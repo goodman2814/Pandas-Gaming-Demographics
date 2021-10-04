@@ -1,5 +1,5 @@
 # Pandas Gaming Exploration
-## This project is part of the Data Analytics Bootcamp at Johns Hopkins University
+### This project is part of the Data Analytics Bootcamp at Johns Hopkins University
 
 ## Project Intro/Objective
 The purpose of this project is to provide an analysis of user demograpphics and purchasing data to find meaningful insite. This data will be used to target certain in game content to users. 
